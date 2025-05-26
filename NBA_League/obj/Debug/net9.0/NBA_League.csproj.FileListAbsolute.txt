@@ -1,0 +1,28 @@
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.exe
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.deps.json
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.runtimeconfig.json
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.dll
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.pdb
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.AssemblyInfoInputs.cache
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.AssemblyInfo.cs
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.csproj.CoreCompileInputs.cache
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.dll
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\refint\NBA_League.dll
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.pdb
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.genruntimeconfig.cache
+C:\Users\Personal PC\Videos\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\ref\NBA_League.dll
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.exe
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.deps.json
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.runtimeconfig.json
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.dll
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\bin\Debug\net9.0\NBA_League.pdb
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.AssemblyInfoInputs.cache
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.AssemblyInfo.cs
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.csproj.CoreCompileInputs.cache
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.dll
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\refint\NBA_League.dll
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.pdb
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\NBA_League.genruntimeconfig.cache
+C:\Users\Personal PC\Videos\UBB Info\an2\an2 sem1\metode avansate de programare\NBA_League\NBA_League\obj\Debug\net9.0\ref\NBA_League.dll
